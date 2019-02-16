@@ -1,3 +1,10 @@
+A react app for project management. Uses firebase for auth and firestore as a nosql database. Uses firebase cloud functions to track real time updates to display in the app.
+App is hosted on firebase at---
+https://project-management-67d28.firebaseapp.com/
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
